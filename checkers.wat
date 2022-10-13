@@ -18,4 +18,14 @@
       (i32.const 4)
     )
   )
+
+  ;; Determine if a piece has been crowned
+
+  ;; Determine if a piece is white
+
+  ;; Determine if a piece is black
+
+  ;; Adds a crown to a given piece (no mutation)
+
+  ;; Removes a crown from a given piece (no mutation)
 )
